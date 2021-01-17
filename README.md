@@ -1,5 +1,3 @@
-# The Mint Farm
-
 **GitLab**: currently up! Feel free to host your own projects at [devel.themintfarm.ml](https://devel.themintfarm.ml)
 
 ## What is The Mint Farm?
